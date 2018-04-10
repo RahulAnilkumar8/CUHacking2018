@@ -3,5 +3,5 @@ This repository contains the scripts that were written during CUHacking 2018 for
 
 
 # Contributors
--Rahul Anilkumar
--Christopher Wang
+- Rahul Anilkumar
+- Christopher Wang
